@@ -1,0 +1,15 @@
+{
+  "name": "MEGA-Hackathon-25",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "MEGA_Hackathon_25_bg.wasm",
+    "MEGA_Hackathon_25.js",
+    "MEGA_Hackathon_25.d.ts"
+  ],
+  "main": "MEGA_Hackathon_25.js",
+  "types": "MEGA_Hackathon_25.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
